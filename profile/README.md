@@ -2,7 +2,7 @@
 
 A real indie game studio!
 
-Members
+Members:
 
 - Ian Lum ([GitHub](https://github.com/IanLum), [LinkedIn](https://www.linkedin.com/in/ianlum/))\
 Programming, Game Design
