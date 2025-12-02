@@ -10,6 +10,9 @@ Programming, Game Design
 - Joshua Ehrlich ([@tobiiarts](http://instagram.com/tobiiarts))\
 Art, Writing, Game Design
 
+- Jonathan Han
+Art, Game Design
+
 - Miles Frank\
 Programming, Game Design
 
